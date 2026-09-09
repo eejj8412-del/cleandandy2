@@ -1,12 +1,23 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
-
-  <url>
-    <loc>https://allhousefix.co.kr/</loc>
-  </url>
-
-  <url>
-    <loc>https://allhousefix.co.kr/tile-crack-repair/</loc>
-  </url>
-
+  <url><loc>https://allhousefix.co.kr/</loc></url>
+  <url><loc>https://allhousefix.co.kr/baseboard-repair/</loc></url>
+  <url><loc>https://allhousefix.co.kr/built-in-cabinet-repair/</loc></url>
+  <url><loc>https://allhousefix.co.kr/ceiling-drywall-repair/</loc></url>
+  <url><loc>https://allhousefix.co.kr/ceiling-molding-repair/</loc></url>
+  <url><loc>https://allhousefix.co.kr/countertop-hole-repair/</loc></url>
+  <url><loc>https://allhousefix.co.kr/door-frame-repair/</loc></url>
+  <url><loc>https://allhousefix.co.kr/drywall-repair/</loc></url>
+  <url><loc>https://allhousefix.co.kr/floor-repair/</loc></url>
+  <url><loc>https://allhousefix.co.kr/furniture-repair/</loc></url>
+  <url><loc>https://allhousefix.co.kr/interior-door-repair/</loc></url>
+  <url><loc>https://allhousefix.co.kr/interior-film-installation/</loc></url>
+  <url><loc>https://allhousefix.co.kr/natural-marble-repair/</loc></url>
+  <url><loc>https://allhousefix.co.kr/sash-hole-repair/</loc></url>
+  <url><loc>https://allhousefix.co.kr/sink-cabinet-repair/</loc></url>
+  <url><loc>https://allhousefix.co.kr/tile-crack-repair/</loc></url>
+  <url><loc>https://allhousefix.co.kr/torn-wallpaper-repair/</loc></url>
+  <url><loc>https://allhousefix.co.kr/tv-hole-repair/</loc></url>
+  <url><loc>https://allhousefix.co.kr/wallpaper-installation/</loc></url>
 </urlset>
+
